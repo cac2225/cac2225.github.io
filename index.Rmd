@@ -5,3 +5,7 @@ title: "Holy cow!"
 ### I have a webpage!
 
 And I can put all kinds of stuff on it!
+
+output:
+  html_document:
+    theme: cosmo
